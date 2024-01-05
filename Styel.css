@@ -1,0 +1,64 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+li,h1{
+    display: inline;
+}
+li{
+    cursor: pointer;
+    color: gray;
+}
+li:hover{
+    color: blue;
+}
+.dies{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.box{
+    color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 360px;
+}
+.box:hover{
+    background-color: white;
+    color:brown;
+}
+h4{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 30px;
+    text-align:center;
+}
+div{
+    color: white;
+}
+.block{
+    display: block;
+    width: 30%;
+    border: none;
+    background-color: yellow;
+    color: black;
+    cursor: pointer;
+    text-align: center;
+    margin: 10px;
+}
+.block:hover{
+    background-color: white;
+    color: black;
+}
